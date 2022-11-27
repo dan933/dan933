@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on personal projects using AWS services
 - 🌱 I’m currently learning AWS cloud services such as DynamoDB Cognito and lambda functions.
-- 💬 Ask me about 
 
 I have created web applications with the following technologies:
 
