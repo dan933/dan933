@@ -12,7 +12,7 @@ I have created web applications with the following technologies:
 
 If you want to see some of my projects please checkout my portfolio website bellow:
 
-<a href="https://danalbertportfolio.com.au/">
+<a href="https://danalbertportfolio.com.au/" target="_blank">
     <img src="https://danalbertportfolio.com.au/web-logo.png" width="80"> 
     <span>Portfolio Website</span>
 </a>
