@@ -1,7 +1,7 @@
 ### Hello my name is Daniel 😊
 
 - 🔭 I’m currently working on personal projects using AWS services
-- 🌱 I’m currently learning AWS cloud services such as DynamoDB Cognito and lambda functions.
+- 🌱 I’m currently learning Vue and Vuetify and lambda functions.
 
 I have created web applications with the following technologies:
 
