@@ -1,6 +1,7 @@
 ### Hello my name is Daniel 😊
 
 I have created web applications with the following technologies:
+I currently work with Vue 3, AWS Lambda, SQS and Mongodb
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
