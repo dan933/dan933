@@ -1,7 +1,6 @@
 ### Hello my name is Daniel 😊
 
-I have created web applications with the following technologies:
-I currently work with Vue 3, AWS Lambda, SQS and Mongodb
+I've been working as a fullstack software developer for 3 years, solving complex business problems and deploying production ready code used by over 20,000 users
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
